@@ -1,3 +1,28 @@
+# 
+Caps Lock: Enter;
+Enter: Caps Lock;
+
+Tab: \;
+\: Tab;
+#
+
 Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
 "ScanCode Map"=hex:00,00,00,00,00,00,00,00,05,00,00,00,1c,00,3a,00,3a,00,1c,00,2b,00,0f,00,0f,00,2b,00,00,00,00,00
+
+# 
+Tab: \;
+\: Tab;
+#
+
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
+"ScanCode Map"=hex:00,00,00,00,00,00,00,00,03,00,00,00,2b,00,0f,00,0f,00,2b,00,00,00,00,00
+
+# 
+return
+#
+
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
+"ScanCode Map"=hex:00,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00
